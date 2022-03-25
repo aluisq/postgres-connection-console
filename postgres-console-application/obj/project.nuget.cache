@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MGd5+H9AKgqV/KHhJg1tisFnBKVFwox6gTsI4T3/V+l+qWE7wBTmA+CHAPw0NpXWYSGh41Ba7LjJMzIf1NRM/Q==",
+  "success": true,
+  "projectFilePath": "D:\\arthur.dantas\\Documents\\C#\\postgres-console-application\\postgres-console-application\\postgres-console-application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arthur.dantas\\.nuget\\packages\\npgsql\\6.0.3\\npgsql.6.0.3.nupkg.sha512",
+    "C:\\Users\\arthur.dantas\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a5b396ea-0cd0-4861-9d6e-fc7b63dfc269": {
+      "ProjectGuid": "a5b396ea-0cd0-4861-9d6e-fc7b63dfc269",
+      "DisplayName": "postgres-console-application",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

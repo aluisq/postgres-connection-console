@@ -1,0 +1,17 @@
+D:\arthur.dantas\Documents\C#\postgres-console-application\postgres-console-application\bin\Debug\net6.0\postgres-console-application.exe
+D:\arthur.dantas\Documents\C#\postgres-console-application\postgres-console-application\bin\Debug\net6.0\postgres-console-application.deps.json
+D:\arthur.dantas\Documents\C#\postgres-console-application\postgres-console-application\bin\Debug\net6.0\postgres-console-application.runtimeconfig.json
+D:\arthur.dantas\Documents\C#\postgres-console-application\postgres-console-application\bin\Debug\net6.0\postgres-console-application.dll
+D:\arthur.dantas\Documents\C#\postgres-console-application\postgres-console-application\bin\Debug\net6.0\ref\postgres-console-application.dll
+D:\arthur.dantas\Documents\C#\postgres-console-application\postgres-console-application\bin\Debug\net6.0\postgres-console-application.pdb
+D:\arthur.dantas\Documents\C#\postgres-console-application\postgres-console-application\obj\Debug\net6.0\postgres-console-application.csproj.AssemblyReference.cache
+D:\arthur.dantas\Documents\C#\postgres-console-application\postgres-console-application\obj\Debug\net6.0\postgres-console-application.GeneratedMSBuildEditorConfig.editorconfig
+D:\arthur.dantas\Documents\C#\postgres-console-application\postgres-console-application\obj\Debug\net6.0\postgres-console-application.AssemblyInfoInputs.cache
+D:\arthur.dantas\Documents\C#\postgres-console-application\postgres-console-application\obj\Debug\net6.0\postgres-console-application.AssemblyInfo.cs
+D:\arthur.dantas\Documents\C#\postgres-console-application\postgres-console-application\obj\Debug\net6.0\postgres-console-application.csproj.CoreCompileInputs.cache
+D:\arthur.dantas\Documents\C#\postgres-console-application\postgres-console-application\obj\Debug\net6.0\postgres-console-application.dll
+D:\arthur.dantas\Documents\C#\postgres-console-application\postgres-console-application\obj\Debug\net6.0\ref\postgres-console-application.dll
+D:\arthur.dantas\Documents\C#\postgres-console-application\postgres-console-application\obj\Debug\net6.0\postgres-console-application.pdb
+D:\arthur.dantas\Documents\C#\postgres-console-application\postgres-console-application\obj\Debug\net6.0\postgres-console-application.genruntimeconfig.cache
+D:\arthur.dantas\Documents\C#\postgres-console-application\postgres-console-application\bin\Debug\net6.0\Npgsql.dll
+D:\arthur.dantas\Documents\C#\postgres-console-application\postgres-console-application\obj\Debug\net6.0\postgres-console-application.csproj.CopyComplete
