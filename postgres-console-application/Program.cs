@@ -5,7 +5,7 @@ using postgres_console_application.services;
 
 Console.WriteLine("O que você deseja fazer?");
 Console.WriteLine("1 - Visualizar Todas as Campanhas");
-Console.WriteLine("2 - Visualizar Campanhas Específica");
+Console.WriteLine("2 - Visualizar Campanha Específica");
 
 
 var opcao = Console.ReadLine();
