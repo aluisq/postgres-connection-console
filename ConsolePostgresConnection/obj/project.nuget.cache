@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ighUMvAz/coXk4qoFtnQxd6lMo2xX3W08ljKP120mVQ8Lhm8mGew5RBO7CihS+EhxAR80FmfgBSc77cBkW6y1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arthur\\source\\repos\\ConsolePostgresConnection\\ConsolePostgresConnection\\ConsolePostgresConnection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arthur\\.nuget\\packages\\npgsql\\6.0.3\\npgsql.6.0.3.nupkg.sha512",
+    "C:\\Users\\arthur\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

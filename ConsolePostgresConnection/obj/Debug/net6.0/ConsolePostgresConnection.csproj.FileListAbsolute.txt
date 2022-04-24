@@ -1,0 +1,17 @@
+C:\Users\arthur\source\repos\ConsolePostgresConnection\ConsolePostgresConnection\bin\Debug\net6.0\ConsolePostgresConnection.exe
+C:\Users\arthur\source\repos\ConsolePostgresConnection\ConsolePostgresConnection\bin\Debug\net6.0\ConsolePostgresConnection.deps.json
+C:\Users\arthur\source\repos\ConsolePostgresConnection\ConsolePostgresConnection\bin\Debug\net6.0\ConsolePostgresConnection.runtimeconfig.json
+C:\Users\arthur\source\repos\ConsolePostgresConnection\ConsolePostgresConnection\bin\Debug\net6.0\ConsolePostgresConnection.dll
+C:\Users\arthur\source\repos\ConsolePostgresConnection\ConsolePostgresConnection\bin\Debug\net6.0\ConsolePostgresConnection.pdb
+C:\Users\arthur\source\repos\ConsolePostgresConnection\ConsolePostgresConnection\obj\Debug\net6.0\ConsolePostgresConnection.csproj.AssemblyReference.cache
+C:\Users\arthur\source\repos\ConsolePostgresConnection\ConsolePostgresConnection\obj\Debug\net6.0\ConsolePostgresConnection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthur\source\repos\ConsolePostgresConnection\ConsolePostgresConnection\obj\Debug\net6.0\ConsolePostgresConnection.AssemblyInfoInputs.cache
+C:\Users\arthur\source\repos\ConsolePostgresConnection\ConsolePostgresConnection\obj\Debug\net6.0\ConsolePostgresConnection.AssemblyInfo.cs
+C:\Users\arthur\source\repos\ConsolePostgresConnection\ConsolePostgresConnection\obj\Debug\net6.0\ConsolePostgresConnection.csproj.CoreCompileInputs.cache
+C:\Users\arthur\source\repos\ConsolePostgresConnection\ConsolePostgresConnection\obj\Debug\net6.0\ConsolePostgresConnection.dll
+C:\Users\arthur\source\repos\ConsolePostgresConnection\ConsolePostgresConnection\obj\Debug\net6.0\refint\ConsolePostgresConnection.dll
+C:\Users\arthur\source\repos\ConsolePostgresConnection\ConsolePostgresConnection\obj\Debug\net6.0\ConsolePostgresConnection.pdb
+C:\Users\arthur\source\repos\ConsolePostgresConnection\ConsolePostgresConnection\obj\Debug\net6.0\ConsolePostgresConnection.genruntimeconfig.cache
+C:\Users\arthur\source\repos\ConsolePostgresConnection\ConsolePostgresConnection\obj\Debug\net6.0\ref\ConsolePostgresConnection.dll
+C:\Users\arthur\source\repos\ConsolePostgresConnection\ConsolePostgresConnection\bin\Debug\net6.0\Npgsql.dll
+C:\Users\arthur\source\repos\ConsolePostgresConnection\ConsolePostgresConnection\obj\Debug\net6.0\ConsolePostgresConnection.csproj.CopyComplete
